@@ -73,6 +73,4 @@ Deploy as a web app (e.g., Streamlit) to allow users to input movie details and 
 
 💼 LinkedIn: linkedin.com/in/terrance-boachie
 
-📂 Portfolio: [Your Portfolio or Website]
-
 📧 Contact: terrencenanab@gmail.com
